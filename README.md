@@ -20,8 +20,8 @@ STEP 5:Include Necessary parameters in each functions.
 # Coding and Output:
 
 ```
-NAME: VARSHINI S A
-REGNO: 212222100059
+NAME: Lingasri P
+REGNO: 212221040089
 ```
 ```
 import pandas as pd
